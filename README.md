@@ -3,13 +3,13 @@
 ## Dashboard Overview
 
 ### 1. Executive Summary Page
-![Retail Sales Intelligence Dashboard](Dashboard_pg1.png)
+![Retail Sales Intelligence Dashboard](Dashboard/Dashboard_pg1.png)
 
 ### 2. Product & Category Performance
-![Retail Sales Intelligence Dashboard](Dashboard_pg2.png)
+![Retail Sales Intelligence Dashboard](Dashboard/Dashboard_pg2.png)
 
 ### 3. Customer & Operation Insights
-![Retail Sales Intelligence Dashboard](Dashboard_pg3.png)
+![Retail Sales Intelligence Dashboard](Dashboard/Dashboard_pg3.png)
 
 A data engineering and analytics project that processes raw retail sales data, builds a centralized relational database, and delivers actionable business insights through an interactive Power BI dashboard.
 
